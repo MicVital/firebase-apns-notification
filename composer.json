@@ -1,5 +1,5 @@
 {
-    "name": "turbo124/laravel-push-notification",
+    "name": "turbo124/firebase-apns-notification",
     "description": "Laravel Push Notification",
     "keywords": [
         "laravel",
@@ -7,7 +7,7 @@
         "notification",
         "laravel notifications"
     ],
-    "homepage": "https://github.com/turbo124/laravel-push-notification-1",
+    "homepage": "https://github.com/turbo124/firebase-apns-notification",
     "license": "MIT",
     "authors": [
         {
