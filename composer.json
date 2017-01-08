@@ -1,5 +1,5 @@
 {
-    "name": "jenky/laravel-push-notification",
+    "name": "turbo124/laravel-push-notification",
     "description": "Laravel Push Notification",
     "keywords": [
         "laravel",
@@ -7,12 +7,12 @@
         "notification",
         "laravel notifications"
     ],
-    "homepage": "https://github.com/jenky/laravel-push-notification",
+    "homepage": "https://github.com/turbo124/laravel-push-notification-1",
     "license": "MIT",
     "authors": [
         {
-            "name": "Linh Tran",
-            "email": "jenky.w0w@gmail.com"
+            "name": "David Bomba",
+            "email": "turbo124@gmail.com"
         }
     ],
     "require": {
